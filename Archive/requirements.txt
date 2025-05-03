@@ -1,0 +1,7 @@
+numpy
+matplotlib
+fenics
+torch
+imageio
+scipy
+git+https://github.com/NicolaRFranco/dlroms.git 
