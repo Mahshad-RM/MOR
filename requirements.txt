@@ -1,9 +1,0 @@
-numpy
-matplotlib
-fenics-dolfin
-mshr
-torch
-imageio
-scipy
-fenics
-git+https://github.com/NicolaRFranco/dlroms.git 
