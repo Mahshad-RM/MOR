@@ -1,2 +1,0 @@
-# MOR
-Model order reduction
